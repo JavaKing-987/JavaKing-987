@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi，我是JavaKing
 
-<!--
-**JavaKing-987/JavaKing-987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 前大厂核心成员 | 10年大厂开发经验 | 上百位学员成功上岸 | 专注普通人逆袭路径
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📮 找我聊聊
+
+想快速提升竞争力，不再走弯路？欢迎联系我👇：
+
+- 📮 微信：`king_987_122`
+
+---
+
+## 💼 我的背景
+
+- 曾就职于字节跳动、美团、阿里等一线互联网公司，参与多个核心项目
+- 熟悉后端 / 测试 / 数据 / 算法
+- 10年大厂经验，清楚各个大厂用人标准与底层逻辑
+- 过去3年，累计辅导超 100 位学生进入理想实习/正式岗位
+
+---
+
+## 🚀 我能帮你什么？
+
+我专注解决这类问题：
+
+- ✅ 简历没人看？我来帮你重构定位 + 技术亮点提炼
+- ✅ 项目不会讲？我手把手教你包装项目，讲出面试结构感
+- ✅ 面试总挂？我带你模拟面试、练结构、答出深度
+- ✅ 毫无方向感？我帮你规划节奏，明确最优路径
+
+---
+
+> 别人已经在上岸，你还在原地打转吗？  
+> 📌 **让每一个相信我的学生上岸，是我一直在做的事。**
